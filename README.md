@@ -7,7 +7,7 @@ We encourage users to contribute publicly available information here to facilita
 See setup/setup_steps.sh for notes on how to install. Better instruction in work
 
 # License Info
-Copyright 2016 Lookingglass Cyber Solutions
+Copyright 2017 Lookingglass Cyber Solutions
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

@@ -26,10 +26,10 @@ Email Settings
 '''
 
 #the email address of the sender
-EMAIL_SENDER    =  "noreply_ctig@lookingglasscyber.com"
+EMAIL_SENDER    =  "Your email here"
 
 #alerts go to these addresses
-EMAIL_ADDRESSES =  [ "ctig@lgscout.com", ] 
+EMAIL_ADDRESSES =  [ "Your email here", ] 
 
 '''
 Application Settings
